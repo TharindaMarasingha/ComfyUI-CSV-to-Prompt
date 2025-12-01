@@ -1,0 +1,17 @@
+Bulk/Batch Mode (The Magic Feature)
+To automatically generate images for ALL your prompts:
+
+Connect the node.
+
+Ensure seed is set to "increment" (default behavior).
+
+Go to the ComfyUI Main Menu (Right side).
+
+Set Batch count to the number of rows in your CSV (e.g., 14).
+
+Click Queue Prompt.
+
+ComfyUI will run 14 times, automatically picking the next prompt for each run!
+
+Credits
+Developed by Tharinda Marasingha.
