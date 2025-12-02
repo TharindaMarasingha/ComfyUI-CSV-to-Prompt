@@ -4,7 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom_Node-green.svg)
 
 A lightweight and efficient custom node for **ComfyUI** that allows you to load prompts directly from CSV files. It is specifically designed for **Bulk/Batch Image Generation**, allowing you to automate the creation of hundreds of images using a pre-defined list of prompts.
-<img width="500" height="500" alt="Red and White Video Centric Coming Soon Instagram Post" src="https://github.com/user-attachments/assets/bb2e0d73-f6e6-46be-8fab-6962a39edefb" />
+
+<img width="600" height="600" alt="Red and White Video Centric Coming Soon Instagram Post" src="https://github.com/user-attachments/assets/bb2e0d73-f6e6-46be-8fab-6962a39edefb" />
 
 
 ## ✨ Features
