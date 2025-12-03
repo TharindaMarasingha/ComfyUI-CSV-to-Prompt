@@ -28,7 +28,7 @@ Documentation = "https://github.com/TharindaMarasingha/ComfyUI-CSV-to-Prompt/wik
 "Bug Tracker" = "https://github.com/TharindaMarasingha/ComfyUI-CSV-to-Prompt/issues"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "tharinda"
 DisplayName = "ComfyUI-CSV-to-Prompt"
 Icon = ""
 includes = [] 
