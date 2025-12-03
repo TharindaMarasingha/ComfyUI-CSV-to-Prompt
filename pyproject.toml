@@ -2,7 +2,7 @@
 name = "csv-to-prompt"
 description = "custom node for ComfyUI that allows you to load prompts directly from CSV files"
 version = "1.0.1"
-license = { text = "MIT" }
+license = {text = "MIT"}
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
 #     "Operating System :: OS Independent",
