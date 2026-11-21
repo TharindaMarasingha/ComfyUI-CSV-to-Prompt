@@ -1,5 +1,4 @@
 # ComfyUI CSV to Prompt Node
-### Created by Tharinda Marasingha
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) ![ComfyUI](https://img.shields.io/badge/ComfyUI-Custom_Node-green.svg)
 
